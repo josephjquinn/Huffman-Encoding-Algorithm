@@ -214,7 +214,6 @@ public class HuffmanTree
     {
         DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
         Calendar cal = Calendar.getInstance();
-        String timeStamp = dateFormat.format(cal.getTime());
         File log = new File("src/resources/DataLog.txt");
 
         try {
