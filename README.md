@@ -12,8 +12,7 @@ to a text file located at ./src/resources/DataLog.txt
 
 ## Example Visual
 
-<img src="https://github.com/josephjquinn/Huffman-Encoding-Algorithm/assets/81782398/0fabeeb2-36d6-4570-bbe3-1260388e4cd6"  width="400" height="600">
-<img src="https://github.com/josephjquinn/Huffman-Encoding-Algorithm/assets/81782398/5b33f11c-8dbe-4813-9a03-10c87fb9393c"  width="400" height="600">
+<img src="visual1.png"  width="400" height="600"> <img src="visual2.png"  width="400" height="600">
 
 
 
