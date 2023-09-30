@@ -4,6 +4,8 @@
 This Java program takes a string input from the user, encodes it using the Huffman encoding algorithm, and outputs the binary representation of the input string. Additionally, it logs the Huffman codes for each string
 to a text file located at ./src/resources/DataLog.txt
 
+<img src="assets/diagram.png"  width="400"> 
+
 Huffman coding is a widely used algorithm for lossless data compression. It works by assigning variable-length codes to characters in a string based on their frequencies, with more frequent characters receiving shorter codes and less frequent characters receiving longer codes. Here's a detailed explanation of the Huffman encoding algorithm for a string:
 
 
@@ -43,7 +45,7 @@ Huffman encoding is highly efficient in reducing data size by assigning shorter 
 
 ## Example Visual
 
-<img src="visual1.png"  width="400" height="600"> <img src="visual2.png"  width="400" height="600">
+<img src="assets/visual1.png"  width="400" height="600"> <img src="assets/visual2.png"  width="400" height="600">
 
 
 
