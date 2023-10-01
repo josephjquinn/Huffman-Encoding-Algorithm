@@ -47,6 +47,21 @@ Huffman encoding is highly efficient in reducing data size by assigning shorter 
 
 <img src="assets/visual1.png"  width="400" height="600"> <img src="assets/visual2.png"  width="400" height="600">
 
+## Installation
+###
+Requirements
+- Java
+
+
+#### 1. Download Repository
+      git clone https://github.com/josephjquinn/Huffman-Encoding-Algorithm.git
+
+#### 2. Navigate to src directory
+      cd src
+
+#### 3. Start Program
+      java HuffmanTree
+      
 
 
 
