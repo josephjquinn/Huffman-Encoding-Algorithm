@@ -59,7 +59,9 @@ Requirements
 #### 2. Navigate to src directory
       cd src
 
-#### 3. Start Program
+#### 3. Compile Program
+      javac HuffmanTree.java
+#### 4. Run Program
       java HuffmanTree
       
 
